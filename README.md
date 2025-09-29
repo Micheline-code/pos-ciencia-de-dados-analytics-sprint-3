@@ -1,4 +1,4 @@
-# pos-ciencia-de-dados-analytics-sprint-2
+# pos-ciencia-de-dados-analytics-sprint-3
 
 **1) MVP:** `MVP_Machine_Learning_e_Analytics_MICHELINE_4052024001925.ipynb`
 
