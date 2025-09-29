@@ -1,4 +1,4 @@
-**1) MVP:** `MVP_Analise_de_Dados_e_Boas_Praticas_MICHELINE_4052024001925.ipynb`
+**1) MVP:** `MVP_Machine_Learning_e_Analytics_MICHELINE_4052024001925.ipynb`
 
 Disponível em: https://colab.research.google.com/github/Micheline-code/pos-ciencia-de-dados-analytics-sprint-2/blob/main/MVP_Analise_de_Dados_e_Boas_Praticas_MICHELINE_4052024001925.ipynb
 
